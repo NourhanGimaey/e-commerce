@@ -1,0 +1,18 @@
+{
+    "loginWelcome": "Welcome Back To Route",
+    "pleaseSignIn": "Please sign in with your mail",
+    "userName": "User Name",
+    "fullName": "Full Name",
+    "enterYourName": "Enter your name",
+    "enterYourFullName": "Enter your full name",
+    "password": "Password",
+    "enterYourPassword": "Enter your password",
+    "forgotPassword": "Forgot Password?",
+    "login": "Login",
+    "dontHaveAnAccount": "Don’t have an account? Create Account",
+    "mobileNumber": "Mobile Number",
+    "enterYourMobileNumber": "Enter your mobile number",
+    "emailAddress": "Email Address",
+    "enterYourEmailAddress": "Enter your E-mail address",
+    "signUp": "Sign Up"
+}
