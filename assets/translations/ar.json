@@ -1,0 +1,18 @@
+{
+    "loginWelcome": "مرحباً بك مجدداً في Route",
+    "pleaseSignIn": "يرجى تسجيل الدخول ببريدك الإلكتروني",
+    "userName": "اسم المستخدم",
+    "fullName": "الاسم بالكامل",
+    "enterYourName": "أدخل اسم المستخدم",
+    "enterYourFullName": "أدخل اسمك بالكامل",
+    "password": "كلمة المرور",
+    "enterYourPassword": "أدخل كلمة المرور",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "login": "تسجيل الدخول",
+    "dontHaveAnAccount": "ليس لديك حساب؟ إنشاء حساب",
+    "mobileNumber": "رقم الهاتف المحمول",
+    "enterYourMobileNumber": "أدخل رقم هاتفك المحمول",
+    "emailAddress": "البريد الإلكتروني",
+    "enterYourEmailAddress": "أدخل بريدك الإلكتروني",
+    "signUp": "تسجيل"
+}
